@@ -21,3 +21,7 @@ local result = lpeg.match(pattern, 'abbc')
 
 print(result) --> 4
 ```
+
+## Narrator
+
+This library is used by [Narrator](https://github.com/astrochili/narrator) to parse the Ink language. You can check how its parser works [here](https://github.com/astrochili/narrator/blob/master/narrator/parser.lua).
