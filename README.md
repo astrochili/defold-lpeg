@@ -1,3 +1,5 @@
+![LPeg for Defold](https://user-images.githubusercontent.com/4752473/85421686-6481f780-b57d-11ea-839b-fdb4634e7ff8.jpg)
+
 # LPeg for Defold
 LPeg extension for the Defold game engine. [LPeg](http://www.inf.puc-rio.br/~roberto/lpeg/) is a pattern-matching library by [Roberto Ierusalimschy](http://www.inf.puc-rio.br/~roberto/) for Lua.
 
