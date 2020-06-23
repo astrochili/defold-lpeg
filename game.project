@@ -1,0 +1,23 @@
+[bootstrap]
+main_collection = /example/example.collectionc
+
+[script]
+shared_state = 1
+
+[display]
+width = 960
+height = 640
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = LPeg for Defold
+
+[library]
+include_dirs = lpeg
+
+[input]
+game_binding = /builtins/input/all.input_bindingc
+gamepads = /builtins/input/default.gamepadsc
+
